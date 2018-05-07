@@ -7,7 +7,7 @@
 $ npm i --save-dev babel-preset-antd
 ```
 
-## Usae
+## Usage
 
 ```json
 {
